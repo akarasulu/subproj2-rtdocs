@@ -1,0 +1,3 @@
+[submodule "docs"]
+	path = docs
+	url = https://github.com/akarasulu/subproj2-rtdocs.wiki.git
